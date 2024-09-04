@@ -11,10 +11,10 @@ Here's how I'm implementing that in all aspects my life:
 - full-stack development with a carpool project
 - Blender and Unreal Engine for game development
 
-### 🚣‍♀️ Rowing
-- 6am practices to prepare for the next [season](https://athletics.uwaterloo.ca/sports/rowing/roster)
-  
-### 📚 Reading: The Science of Getting Rich
+### 🏃‍♀️🏋️‍♀️ Hybrid Training
+- challenging myself physically by running longer distances and lifting heavier weights
+
+### 📚 Reading: The untethered soul
 
 ---
 ### Skills and Experience
