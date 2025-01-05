@@ -1,4 +1,4 @@
-# Hello World 🌎 - I'm Cynthia Lim! 
+<!-- # Hello World 🌎 - I'm Cynthia Lim! 
 
 I used to say that I'm "always learning". It served as a personal motto to remind me that any experience can be a learning opportunity. I recently realized that this is only part of the equation. 
 
