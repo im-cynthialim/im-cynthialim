@@ -1,4 +1,4 @@
-<!-- # Hello World 🌎 - I'm Cynthia Lim! 
+# Hello World 🌎 - I'm Cynthia Lim! 
 
 I used to say that I'm "always learning". It served as a personal motto to remind me that any experience can be a learning opportunity. I recently realized that this is only part of the equation. 
 
@@ -7,23 +7,28 @@ I used to say that I'm "always learning". It served as a personal motto to remin
 Here's how I'm implementing that in all aspects my life:
 
 ### 🌱 Learning, exploring, and building
-- multi AI agent workflows with [crewAI](https://www.crewai.com/)
+<!-- - multi AI agent workflows with [crewAI](https://www.crewai.com/)
 - full-stack development with a carpool project
-- Blender and Unreal Engine for game development
+- Blender and Unreal Engine for game development -->
+- product management
+- mobile app development and consumer apps
 
 ### 🏃‍♀️🏋️‍♀️ Hybrid Training
-- challenging myself physically by running longer distances and lifting heavier weights
+- off-season rowing training
+- improving my 10k time
 
 ### 📚 Reading: The untethered soul
 
 ---
 ### Skills and Experience
 
-👩‍💻 Recent **Frontend UI Software Developer** at [OpenText](https://www.opentext.com/)
+👩‍💻 Recent **Product Development Intern** at [ensogo](https://ensogo.io/)
 
-**Languages**: `C/C++`, `Javascript`, `Python`, `Typescript`, `HTML/CSS`
+Languages: `C/C++`, `Javascript`, `Typescript`, `Dart`, `Swift`, `SQL`, `Python`, `HTML/CSS`
 
-**Tools / Frameworks** : `Vue`, `Git`, `VS Code`, `Jira`, `Figma`, `AdobeXD`
+Web and Mobile Development: `React`, `Vue`, `Tailwind`, `Next.js`, `SwiftUI`, `Flutter` 
+
+Tools and Technologies: `MongoDB`, `mySQL`, `Git`, `VS Code`, `Jira`, `Figma`, `AdobeXD`
 
 Find out more about me here: [im-cynthialim.github.io/me](https://im-cynthialim.github.io/me)
 
